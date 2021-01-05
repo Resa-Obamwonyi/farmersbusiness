@@ -1,0 +1,792 @@
+[01-Aug-2019 05:44:20 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[01-Aug-2019 05:44:20 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 51
+[01-Aug-2019 05:47:10 UTC] PHP Notice:  Undefined variable: headers in /home/rws3juzilk3l/public_html/signup.php on line 49
+[01-Aug-2019 05:48:26 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/withdraw.php on line 47
+[01-Aug-2019 05:48:26 UTC] PHP Notice:  Undefined variable: name in /home/rws3juzilk3l/public_html/withdraw.php on line 51
+[01-Aug-2019 06:48:38 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/withdraw.php on line 5
+[01-Aug-2019 06:48:38 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/withdraw.php on line 47
+[01-Aug-2019 06:48:38 UTC] PHP Notice:  Undefined variable: name in /home/rws3juzilk3l/public_html/withdraw.php on line 51
+[02-Aug-2019 05:01:19 UTC] PHP Notice:  Undefined variable: headers in /home/rws3juzilk3l/public_html/change_password.php on line 30
+[02-Aug-2019 05:02:12 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[02-Aug-2019 05:02:12 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[02-Aug-2019 05:26:40 UTC] PHP Warning:  include(header): failed to open stream: No such file or directory in /home/rws3juzilk3l/public_html/reset.php on line 2
+[02-Aug-2019 05:26:40 UTC] PHP Warning:  include(): Failed opening 'header' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/rws3juzilk3l/public_html/reset.php on line 2
+[02-Aug-2019 06:13:32 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[02-Aug-2019 06:13:32 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[02-Aug-2019 07:15:48 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[02-Aug-2019 07:21:05 UTC] PHP Parse error:  syntax error, unexpected 'new_pass' (T_STRING) in /home/rws3juzilk3l/public_html/password_reset.php on line 41
+[02-Aug-2019 07:21:17 UTC] PHP Parse error:  syntax error, unexpected 'new_pass' (T_STRING) in /home/rws3juzilk3l/public_html/password_reset.php on line 41
+[02-Aug-2019 07:29:56 UTC] PHP Parse error:  syntax error, unexpected 'new_pass' (T_STRING) in /home/rws3juzilk3l/public_html/password_reset.php on line 41
+[02-Aug-2019 07:36:56 UTC] PHP Parse error:  syntax error, unexpected 'new_pass' (T_STRING) in /home/rws3juzilk3l/public_html/password_reset.php on line 41
+[02-Aug-2019 08:01:37 UTC] PHP Parse error:  syntax error, unexpected 'new_pass' (T_STRING) in /home/rws3juzilk3l/public_html/password_reset.php on line 41
+[02-Aug-2019 08:01:53 UTC] PHP Parse error:  syntax error, unexpected 'new_pass' (T_STRING) in /home/rws3juzilk3l/public_html/password_reset.php on line 41
+[02-Aug-2019 08:10:49 UTC] PHP Parse error:  syntax error, unexpected 'new_pass' (T_STRING) in /home/rws3juzilk3l/public_html/password_reset.php on line 41
+[02-Aug-2019 08:23:27 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[02-Aug-2019 08:23:27 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[03-Aug-2019 05:47:24 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[03-Aug-2019 12:07:42 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[03-Aug-2019 12:07:42 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 51
+[03-Aug-2019 12:07:43 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[03-Aug-2019 12:07:43 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 51
+[03-Aug-2019 19:20:13 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[03-Aug-2019 19:20:13 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 51
+[03-Aug-2019 19:20:13 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[03-Aug-2019 19:20:13 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 51
+[03-Aug-2019 19:20:13 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[03-Aug-2019 19:20:13 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[03-Aug-2019 19:20:13 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 39
+[03-Aug-2019 19:20:13 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[03-Aug-2019 19:20:13 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[03-Aug-2019 19:20:13 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 39
+[03-Aug-2019 19:20:13 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/change_password.php on line 5
+[03-Aug-2019 19:20:13 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/withdraw.php on line 5
+[03-Aug-2019 19:20:13 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/withdraw.php on line 47
+[03-Aug-2019 19:20:13 UTC] PHP Notice:  Undefined variable: name in /home/rws3juzilk3l/public_html/withdraw.php on line 51
+[03-Aug-2019 19:20:13 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/change_password.php on line 5
+[03-Aug-2019 19:20:13 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/withdraw.php on line 5
+[03-Aug-2019 19:20:13 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/withdraw.php on line 47
+[03-Aug-2019 19:20:13 UTC] PHP Notice:  Undefined variable: name in /home/rws3juzilk3l/public_html/withdraw.php on line 51
+[04-Aug-2019 03:42:21 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[04-Aug-2019 03:42:21 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 51
+[04-Aug-2019 03:42:41 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[04-Aug-2019 03:42:41 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[04-Aug-2019 03:42:41 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 39
+[04-Aug-2019 03:42:47 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/change_password.php on line 5
+[04-Aug-2019 03:42:49 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/withdraw.php on line 5
+[04-Aug-2019 03:42:49 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/withdraw.php on line 47
+[04-Aug-2019 03:42:49 UTC] PHP Notice:  Undefined variable: name in /home/rws3juzilk3l/public_html/withdraw.php on line 51
+[04-Aug-2019 21:15:29 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[04-Aug-2019 21:15:29 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 51
+[04-Aug-2019 21:16:33 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[04-Aug-2019 21:16:33 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[04-Aug-2019 21:16:33 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 39
+[04-Aug-2019 21:17:29 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/change_password.php on line 5
+[04-Aug-2019 21:18:15 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/withdraw.php on line 5
+[04-Aug-2019 21:18:15 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/withdraw.php on line 47
+[04-Aug-2019 21:18:15 UTC] PHP Notice:  Undefined variable: name in /home/rws3juzilk3l/public_html/withdraw.php on line 51
+[05-Aug-2019 09:12:58 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[05-Aug-2019 09:12:58 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 73
+[05-Aug-2019 09:12:58 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/checkout.php on line 108
+[05-Aug-2019 09:12:58 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[05-Aug-2019 19:10:22 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[05-Aug-2019 19:10:22 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 73
+[05-Aug-2019 19:10:22 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 108
+[05-Aug-2019 19:10:22 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[05-Aug-2019 19:18:02 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 108
+[05-Aug-2019 19:18:02 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[05-Aug-2019 19:20:42 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 108
+[05-Aug-2019 19:20:42 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 02:30:54 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[06-Aug-2019 02:30:54 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 73
+[06-Aug-2019 02:30:54 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 02:32:48 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 02:32:49 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 03:11:51 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[06-Aug-2019 03:25:32 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[06-Aug-2019 04:16:32 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[06-Aug-2019 04:16:32 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[06-Aug-2019 04:16:32 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 39
+[06-Aug-2019 04:22:02 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 04:22:02 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 04:22:02 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 04:22:02 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 04:22:02 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 04:22:02 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 04:22:02 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 04:22:02 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 04:22:02 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 04:22:02 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 04:22:02 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 04:22:02 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 04:22:02 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 04:22:02 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 04:22:02 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 04:22:02 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 04:22:02 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 04:22:02 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:00:25 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 101
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 05:01:12 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/checkout.php on line 109
+[06-Aug-2019 05:49:29 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[06-Aug-2019 05:49:29 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 73
+[06-Aug-2019 07:58:40 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 07:58:40 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 07:58:40 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 07:58:40 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 07:58:40 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 07:58:40 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 07:58:40 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 07:58:40 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 07:58:40 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 09:53:45 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[06-Aug-2019 09:53:45 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 51
+[06-Aug-2019 10:30:18 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:30:18 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:30:18 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:30:18 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:30:18 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:30:18 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:30:18 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:30:18 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:30:18 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:30:20 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:30:20 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:30:20 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:30:20 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:30:20 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:30:20 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:30:20 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:30:20 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:30:20 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:44:01 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:44:01 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:44:01 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:44:01 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:44:01 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:44:01 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:44:01 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:44:01 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:44:01 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:47:36 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:47:36 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:47:36 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:47:36 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:47:36 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:47:36 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:47:36 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:47:36 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 10:47:36 UTC] PHP Notice:  Undefined index: totalbill in /home/rws3juzilk3l/public_html/checkout.php on line 102
+[06-Aug-2019 14:52:43 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[06-Aug-2019 14:52:43 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 51
+[06-Aug-2019 14:53:11 UTC] PHP Notice:  Undefined index: unit in /home/rws3juzilk3l/public_html/payment.php on line 82
+[06-Aug-2019 14:53:34 UTC] PHP Notice:  Undefined index: unit in /home/rws3juzilk3l/public_html/payment.php on line 82
+[06-Aug-2019 21:08:59 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[06-Aug-2019 21:08:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[06-Aug-2019 21:11:22 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 8
+[06-Aug-2019 21:11:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 8
+[06-Aug-2019 21:11:22 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 9
+[06-Aug-2019 21:11:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 9
+[06-Aug-2019 21:11:22 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 12
+[06-Aug-2019 21:11:22 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 13
+[06-Aug-2019 21:11:22 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 15
+[06-Aug-2019 21:12:18 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[06-Aug-2019 21:12:18 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 53
+[06-Aug-2019 21:12:52 UTC] PHP Notice:  Undefined variable: headers in /home/rws3juzilk3l/public_html/signup.php on line 49
+[06-Aug-2019 21:12:52 UTC] PHP Notice:  Undefined index: unit in /home/rws3juzilk3l/public_html/payment.php on line 84
+[06-Aug-2019 21:12:58 UTC] PHP Notice:  Undefined index: unit in /home/rws3juzilk3l/public_html/payment.php on line 84
+[09-Aug-2019 12:57:37 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rws3juzilk3l/public_html/checkout.php on line 57
+[09-Aug-2019 12:59:11 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rws3juzilk3l/public_html/checkout.php on line 57
+[09-Aug-2019 12:59:14 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rws3juzilk3l/public_html/checkout.php on line 57
+[09-Aug-2019 12:59:25 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rws3juzilk3l/public_html/checkout.php on line 57
+[09-Aug-2019 12:59:35 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rws3juzilk3l/public_html/checkout.php on line 57
+[09-Aug-2019 13:13:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/rws3juzilk3l/public_html/checkout.php on line 75
+[09-Aug-2019 13:13:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/rws3juzilk3l/public_html/checkout.php on line 75
+[09-Aug-2019 13:14:08 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/rws3juzilk3l/public_html/checkout.php on line 75
+[09-Aug-2019 16:35:27 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[09-Aug-2019 16:35:27 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 73
+[10-Aug-2019 06:30:22 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[10-Aug-2019 06:30:22 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 74
+[10-Aug-2019 08:05:41 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[10-Aug-2019 08:05:41 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 49
+[10-Aug-2019 08:55:13 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[10-Aug-2019 08:55:13 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[10-Aug-2019 08:55:13 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 39
+[10-Aug-2019 09:12:28 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[10-Aug-2019 09:12:28 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 49
+[10-Aug-2019 09:12:28 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[10-Aug-2019 09:12:28 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 49
+[10-Aug-2019 09:34:31 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[10-Aug-2019 09:34:31 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 52
+[10-Aug-2019 09:35:20 UTC] PHP Notice:  Undefined variable: headers in /home/rws3juzilk3l/public_html/signup.php on line 49
+[10-Aug-2019 10:13:49 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[10-Aug-2019 10:13:49 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 52
+[10-Aug-2019 10:14:58 UTC] PHP Notice:  Undefined variable: headers in /home/rws3juzilk3l/public_html/signup.php on line 49
+[10-Aug-2019 10:57:13 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[10-Aug-2019 10:57:13 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 49
+[10-Aug-2019 11:02:39 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[10-Aug-2019 11:07:04 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[10-Aug-2019 11:07:04 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[10-Aug-2019 11:07:04 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 39
+[10-Aug-2019 11:12:12 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[10-Aug-2019 11:12:12 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 73
+[10-Aug-2019 11:13:05 UTC] PHP Notice:  Undefined variable: headers in /home/rws3juzilk3l/public_html/signup.php on line 49
+[10-Aug-2019 11:52:05 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[10-Aug-2019 12:51:09 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[10-Aug-2019 12:51:09 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[10-Aug-2019 12:51:09 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 39
+[10-Aug-2019 13:11:09 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[10-Aug-2019 13:11:09 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 49
+[10-Aug-2019 13:11:10 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[10-Aug-2019 13:11:10 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 49
+[10-Aug-2019 13:12:02 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[11-Aug-2019 05:09:48 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/change_password.php on line 5
+[11-Aug-2019 05:10:10 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[11-Aug-2019 05:10:48 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[11-Aug-2019 05:11:12 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 05:11:12 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 07:42:43 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[11-Aug-2019 07:42:43 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 52
+[11-Aug-2019 14:41:50 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 14:41:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 15:05:50 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 15:05:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 17:30:16 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 17:30:16 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 17:56:53 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[11-Aug-2019 17:56:53 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 52
+[11-Aug-2019 17:58:38 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[11-Aug-2019 17:58:38 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 52
+[11-Aug-2019 18:01:21 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 18:01:21 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 22:11:26 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 22:11:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 22:17:28 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 22:17:28 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 22:20:13 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 8
+[11-Aug-2019 22:20:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 8
+[11-Aug-2019 22:20:13 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 9
+[11-Aug-2019 22:20:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 9
+[11-Aug-2019 22:20:13 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 12
+[11-Aug-2019 22:20:13 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 13
+[11-Aug-2019 22:20:13 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 15
+[11-Aug-2019 23:24:30 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 23:24:30 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 23:24:32 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[11-Aug-2019 23:24:32 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[11-Aug-2019 23:24:32 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 39
+[11-Aug-2019 23:26:16 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 23:26:16 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 23:26:24 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 23:26:24 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 23:27:47 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 23:27:47 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[11-Aug-2019 23:29:23 UTC] PHP Warning:  include(header): failed to open stream: No such file or directory in /home/rws3juzilk3l/public_html/reset.php on line 2
+[11-Aug-2019 23:29:23 UTC] PHP Warning:  include(): Failed opening 'header' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/rws3juzilk3l/public_html/reset.php on line 2
+[11-Aug-2019 23:29:35 UTC] PHP Warning:  include(header): failed to open stream: No such file or directory in /home/rws3juzilk3l/public_html/reset.php on line 2
+[11-Aug-2019 23:29:35 UTC] PHP Warning:  include(): Failed opening 'header' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/rws3juzilk3l/public_html/reset.php on line 2
+[11-Aug-2019 23:30:18 UTC] PHP Warning:  include(header): failed to open stream: No such file or directory in /home/rws3juzilk3l/public_html/reset.php on line 2
+[11-Aug-2019 23:30:18 UTC] PHP Warning:  include(): Failed opening 'header' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/rws3juzilk3l/public_html/reset.php on line 2
+[11-Aug-2019 23:31:25 UTC] PHP Warning:  include(header): failed to open stream: No such file or directory in /home/rws3juzilk3l/public_html/reset.php on line 2
+[11-Aug-2019 23:31:25 UTC] PHP Warning:  include(): Failed opening 'header' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/rws3juzilk3l/public_html/reset.php on line 2
+[11-Aug-2019 23:31:37 UTC] PHP Warning:  include(header): failed to open stream: No such file or directory in /home/rws3juzilk3l/public_html/reset.php on line 2
+[11-Aug-2019 23:31:37 UTC] PHP Warning:  include(): Failed opening 'header' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/rws3juzilk3l/public_html/reset.php on line 2
+[11-Aug-2019 23:32:59 UTC] PHP Warning:  include(header): failed to open stream: No such file or directory in /home/rws3juzilk3l/public_html/reset.php on line 2
+[11-Aug-2019 23:32:59 UTC] PHP Warning:  include(): Failed opening 'header' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/rws3juzilk3l/public_html/reset.php on line 2
+[11-Aug-2019 23:33:08 UTC] PHP Warning:  include(header): failed to open stream: No such file or directory in /home/rws3juzilk3l/public_html/reset.php on line 2
+[11-Aug-2019 23:33:08 UTC] PHP Warning:  include(): Failed opening 'header' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/rws3juzilk3l/public_html/reset.php on line 2
+[11-Aug-2019 23:33:08 UTC] PHP Warning:  include(header): failed to open stream: No such file or directory in /home/rws3juzilk3l/public_html/reset.php on line 2
+[11-Aug-2019 23:33:08 UTC] PHP Warning:  include(): Failed opening 'header' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/rws3juzilk3l/public_html/reset.php on line 2
+[11-Aug-2019 23:33:18 UTC] PHP Warning:  include(header): failed to open stream: No such file or directory in /home/rws3juzilk3l/public_html/reset.php on line 2
+[11-Aug-2019 23:33:18 UTC] PHP Warning:  include(): Failed opening 'header' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/rws3juzilk3l/public_html/reset.php on line 2
+[11-Aug-2019 23:33:18 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 10
+[11-Aug-2019 23:33:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 10
+[11-Aug-2019 23:33:18 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 11
+[11-Aug-2019 23:33:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 11
+[11-Aug-2019 23:33:18 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[11-Aug-2019 23:33:18 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 15
+[11-Aug-2019 23:33:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[11-Aug-2019 23:38:05 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 10
+[11-Aug-2019 23:38:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 10
+[11-Aug-2019 23:38:05 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 11
+[11-Aug-2019 23:38:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 11
+[11-Aug-2019 23:38:05 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[11-Aug-2019 23:38:05 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 15
+[11-Aug-2019 23:38:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[11-Aug-2019 23:41:10 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 10
+[11-Aug-2019 23:41:10 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 10
+[11-Aug-2019 23:41:10 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 11
+[11-Aug-2019 23:41:10 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 11
+[11-Aug-2019 23:41:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[11-Aug-2019 23:41:10 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 15
+[11-Aug-2019 23:41:10 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[11-Aug-2019 23:41:44 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[11-Aug-2019 23:45:52 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[11-Aug-2019 23:45:52 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 49
+[12-Aug-2019 18:09:35 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[12-Aug-2019 18:09:35 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 49
+[12-Aug-2019 18:13:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rws3juzilk3l/public_html/update.php on line 18
+[12-Aug-2019 18:13:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rws3juzilk3l/public_html/update.php on line 18
+[12-Aug-2019 18:13:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rws3juzilk3l/public_html/update.php on line 18
+[12-Aug-2019 18:47:20 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[12-Aug-2019 18:54:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rws3juzilk3l/public_html/update.php on line 18
+[12-Aug-2019 18:55:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rws3juzilk3l/public_html/update.php on line 18
+[12-Aug-2019 18:55:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rws3juzilk3l/public_html/update.php on line 18
+[12-Aug-2019 18:55:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rws3juzilk3l/public_html/update.php on line 18
+[12-Aug-2019 18:55:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rws3juzilk3l/public_html/update.php on line 18
+[12-Aug-2019 18:59:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rws3juzilk3l/public_html/update.php on line 17
+[12-Aug-2019 19:00:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rws3juzilk3l/public_html/update.php on line 17
+[12-Aug-2019 19:01:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/rws3juzilk3l/public_html/update.php on line 17
+[12-Aug-2019 21:15:46 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/update.php on line 7
+[12-Aug-2019 21:15:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/update.php on line 7
+[12-Aug-2019 21:15:54 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/update.php on line 7
+[12-Aug-2019 21:15:54 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/update.php on line 7
+[12-Aug-2019 21:16:08 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/update.php on line 7
+[12-Aug-2019 21:16:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/update.php on line 7
+[12-Aug-2019 21:56:49 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[13-Aug-2019 02:29:08 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/update.php on line 5
+[13-Aug-2019 02:29:08 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/update.php on line 10
+[13-Aug-2019 02:29:12 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[13-Aug-2019 02:29:12 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 49
+[13-Aug-2019 02:38:15 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[13-Aug-2019 02:39:21 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[13-Aug-2019 02:50:00 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[13-Aug-2019 02:50:00 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[13-Aug-2019 02:54:30 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 02:54:30 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 02:54:30 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 02:54:30 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 02:54:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[13-Aug-2019 02:54:30 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 15
+[13-Aug-2019 02:54:30 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[13-Aug-2019 02:55:14 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[13-Aug-2019 02:55:14 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 49
+[13-Aug-2019 02:57:20 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[13-Aug-2019 03:10:05 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[13-Aug-2019 03:26:28 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[13-Aug-2019 04:14:58 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[13-Aug-2019 04:14:58 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 49
+[13-Aug-2019 04:14:58 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[13-Aug-2019 04:14:58 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 49
+[13-Aug-2019 04:16:33 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[13-Aug-2019 04:16:33 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 52
+[13-Aug-2019 04:16:34 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[13-Aug-2019 04:16:34 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[13-Aug-2019 04:16:34 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 39
+[13-Aug-2019 04:16:49 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[13-Aug-2019 04:17:01 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[13-Aug-2019 04:30:33 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[13-Aug-2019 04:41:52 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[13-Aug-2019 04:42:17 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[13-Aug-2019 04:42:17 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[13-Aug-2019 04:44:04 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 04:44:04 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 04:44:04 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 04:44:04 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 04:44:04 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[13-Aug-2019 04:44:04 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 15
+[13-Aug-2019 04:44:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[13-Aug-2019 04:48:43 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:48:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:49:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:49:38 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[13-Aug-2019 04:49:38 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[13-Aug-2019 04:50:55 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:51:00 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:51:05 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:52:11 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:52:15 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:52:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:52:30 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:52:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:52:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:52:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:52:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:52:56 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:52:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:52:59 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:53:22 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:53:25 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:54:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 04:54:45 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/rws3juzilk3l/public_html/reset.php on line 31
+[13-Aug-2019 05:09:25 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 05:09:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 05:09:25 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 05:09:25 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 05:09:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[13-Aug-2019 05:09:25 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 15
+[13-Aug-2019 05:09:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[13-Aug-2019 05:19:19 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 05:19:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 05:19:19 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 05:19:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 05:19:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[13-Aug-2019 05:19:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 15
+[13-Aug-2019 05:19:19 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[13-Aug-2019 05:28:14 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 05:28:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 05:28:14 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 05:28:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 05:28:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[13-Aug-2019 05:28:14 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 15
+[13-Aug-2019 05:28:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[13-Aug-2019 05:28:59 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[13-Aug-2019 05:28:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[13-Aug-2019 05:30:53 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 05:30:53 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 05:30:53 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 05:30:53 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 05:30:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[13-Aug-2019 05:30:53 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 15
+[13-Aug-2019 05:30:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[13-Aug-2019 05:39:42 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[13-Aug-2019 05:39:42 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[13-Aug-2019 05:41:31 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 05:41:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 05:41:31 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 05:41:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 05:41:31 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[13-Aug-2019 05:41:31 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 15
+[13-Aug-2019 05:41:31 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[13-Aug-2019 05:43:20 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[13-Aug-2019 05:43:20 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[13-Aug-2019 05:45:26 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 05:45:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 05:45:26 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 05:45:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 05:45:26 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[13-Aug-2019 05:45:26 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 15
+[13-Aug-2019 05:45:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[13-Aug-2019 05:51:29 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[13-Aug-2019 05:51:29 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[13-Aug-2019 05:53:18 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 05:53:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 05:53:18 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 05:53:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 05:53:18 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[13-Aug-2019 05:53:18 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 15
+[13-Aug-2019 05:53:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[13-Aug-2019 05:57:26 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[13-Aug-2019 05:57:26 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[13-Aug-2019 06:00:54 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 06:00:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 06:00:54 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 06:00:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 06:00:54 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[13-Aug-2019 06:00:54 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 15
+[13-Aug-2019 06:00:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[13-Aug-2019 06:20:53 UTC] PHP Notice:  Undefined variable: headers in /home/rws3juzilk3l/public_html/signup.php on line 49
+[13-Aug-2019 06:21:18 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[13-Aug-2019 06:21:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[13-Aug-2019 06:23:48 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 06:23:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 06:23:48 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 06:23:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 06:23:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[13-Aug-2019 06:23:48 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 15
+[13-Aug-2019 06:23:48 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[13-Aug-2019 06:25:14 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[13-Aug-2019 06:25:14 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[13-Aug-2019 06:25:14 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 39
+[13-Aug-2019 06:25:54 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[13-Aug-2019 06:34:55 UTC] PHP Parse error:  syntax error, unexpected '$results' (T_VARIABLE) in /home/rws3juzilk3l/public_html/reset.php on line 26
+[13-Aug-2019 17:46:05 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[13-Aug-2019 17:46:05 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[13-Aug-2019 17:46:05 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 39
+[13-Aug-2019 17:50:27 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 17:50:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 17:50:27 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 17:50:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 17:50:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[13-Aug-2019 17:50:27 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 15
+[13-Aug-2019 17:50:27 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[13-Aug-2019 18:03:53 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 18:03:53 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 18:03:53 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 18:03:53 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 18:03:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[13-Aug-2019 18:03:53 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 15
+[13-Aug-2019 18:03:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[13-Aug-2019 18:04:47 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 18:04:47 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 10
+[13-Aug-2019 18:04:47 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 18:04:47 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 11
+[13-Aug-2019 18:04:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[13-Aug-2019 18:04:47 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 15
+[13-Aug-2019 18:04:47 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[13-Aug-2019 18:16:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[13-Aug-2019 18:16:25 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/reset.php on line 17
+[13-Aug-2019 18:16:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[13-Aug-2019 18:21:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[13-Aug-2019 18:21:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 16
+[13-Aug-2019 18:21:20 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[13-Aug-2019 18:38:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rws3juzilk3l/public_html/reset.php on line 7
+[13-Aug-2019 18:39:04 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rws3juzilk3l/public_html/reset.php on line 7
+[13-Aug-2019 18:44:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rws3juzilk3l/public_html/reset.php on line 7
+[13-Aug-2019 18:45:04 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/rws3juzilk3l/public_html/reset.php on line 7
+[13-Aug-2019 18:52:34 UTC] PHP Notice:  Undefined index: new_pass in /home/rws3juzilk3l/public_html/reset.php on line 8
+[13-Aug-2019 18:52:34 UTC] PHP Notice:  Undefined index: confirm_newpass in /home/rws3juzilk3l/public_html/reset.php on line 9
+[13-Aug-2019 18:52:58 UTC] PHP Notice:  Undefined index: new_pass in /home/rws3juzilk3l/public_html/reset.php on line 8
+[13-Aug-2019 18:52:58 UTC] PHP Notice:  Undefined index: confirm_newpass in /home/rws3juzilk3l/public_html/reset.php on line 9
+[13-Aug-2019 18:53:07 UTC] PHP Notice:  Undefined index: new_pass in /home/rws3juzilk3l/public_html/reset.php on line 8
+[13-Aug-2019 18:53:07 UTC] PHP Notice:  Undefined index: confirm_newpass in /home/rws3juzilk3l/public_html/reset.php on line 9
+[13-Aug-2019 22:05:10 UTC] PHP Notice:  Undefined variable: token in /home/rws3juzilk3l/public_html/reset.php on line 15
+[14-Aug-2019 02:55:31 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[14-Aug-2019 02:55:31 UTC] PHP Notice:  A non well formed numeric value encountered in /home/rws3juzilk3l/public_html/dashboard.php on line 51
+[14-Aug-2019 02:55:31 UTC] PHP Notice:  A non well formed numeric value encountered in /home/rws3juzilk3l/public_html/dashboard.php on line 51
+[14-Aug-2019 02:55:31 UTC] PHP Notice:  A non well formed numeric value encountered in /home/rws3juzilk3l/public_html/dashboard.php on line 51
+[14-Aug-2019 02:55:31 UTC] PHP Notice:  A non well formed numeric value encountered in /home/rws3juzilk3l/public_html/dashboard.php on line 51
+[14-Aug-2019 03:11:02 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[14-Aug-2019 03:23:00 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[14-Aug-2019 03:23:00 UTC] PHP Warning:  strtotime() expects parameter 2 to be integer, string given in /home/rws3juzilk3l/public_html/dashboard.php on line 52
+[14-Aug-2019 03:23:00 UTC] PHP Warning:  strtotime() expects parameter 2 to be integer, string given in /home/rws3juzilk3l/public_html/dashboard.php on line 52
+[14-Aug-2019 03:23:00 UTC] PHP Warning:  strtotime() expects parameter 2 to be integer, string given in /home/rws3juzilk3l/public_html/dashboard.php on line 52
+[14-Aug-2019 03:23:00 UTC] PHP Warning:  strtotime() expects parameter 2 to be integer, string given in /home/rws3juzilk3l/public_html/dashboard.php on line 52
+[14-Aug-2019 03:30:37 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/rws3juzilk3l/public_html/dashboard.php on line 52
+[14-Aug-2019 03:33:25 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[14-Aug-2019 03:33:25 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 42
+[14-Aug-2019 03:35:44 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[14-Aug-2019 03:35:44 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 42
+[14-Aug-2019 03:39:47 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[14-Aug-2019 03:39:47 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 42
+[14-Aug-2019 03:46:23 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[14-Aug-2019 03:46:23 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[14-Aug-2019 04:01:08 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rws3juzilk3l/public_html/dashboard.php on line 61
+[14-Aug-2019 04:03:35 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[14-Aug-2019 04:03:35 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[14-Aug-2019 04:04:39 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[14-Aug-2019 04:04:39 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[14-Aug-2019 04:05:57 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[14-Aug-2019 04:05:57 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[14-Aug-2019 04:06:56 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[14-Aug-2019 04:06:56 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[14-Aug-2019 04:14:02 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/withdraw.php on line 47
+[14-Aug-2019 04:14:02 UTC] PHP Notice:  Undefined variable: name in /home/rws3juzilk3l/public_html/withdraw.php on line 51
+[14-Aug-2019 04:14:13 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[14-Aug-2019 04:14:13 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[14-Aug-2019 04:17:43 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[14-Aug-2019 04:17:43 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[14-Aug-2019 04:23:43 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[14-Aug-2019 04:23:43 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[14-Aug-2019 04:24:21 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[14-Aug-2019 04:24:21 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[14-Aug-2019 04:29:50 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[14-Aug-2019 04:29:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[14-Aug-2019 04:33:27 UTC] PHP Notice:  Undefined variable: token in /home/rws3juzilk3l/public_html/reset.php on line 13
+[14-Aug-2019 04:39:44 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 10
+[14-Aug-2019 04:39:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 10
+[14-Aug-2019 04:39:44 UTC] PHP Notice:  Undefined variable: db in /home/rws3juzilk3l/public_html/reset.php on line 11
+[14-Aug-2019 04:39:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/rws3juzilk3l/public_html/reset.php on line 11
+[14-Aug-2019 04:39:44 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[14-Aug-2019 04:39:44 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/rws3juzilk3l/public_html/reset.php on line 15
+[14-Aug-2019 04:39:44 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[15-Aug-2019 01:11:15 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[15-Aug-2019 01:11:15 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 52
+[15-Aug-2019 03:26:41 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[15-Aug-2019 03:26:41 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/password_reset.php on line 33
+[15-Aug-2019 03:29:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/rws3juzilk3l/public_html/reset.php on line 14
+[15-Aug-2019 03:29:40 UTC] PHP Notice:  Undefined variable: error in /home/rws3juzilk3l/public_html/reset.php on line 17
+[15-Aug-2019 03:29:40 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/rws3juzilk3l/public_html/reset.php on line 17
+[16-Aug-2019 21:05:37 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[16-Aug-2019 21:05:37 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 52
+[17-Aug-2019 18:14:34 UTC] PHP Notice:  Undefined variable: headers in /home/rws3juzilk3l/public_html/signup.php on line 49
+[17-Aug-2019 20:28:57 UTC] PHP Notice:  Undefined variable: headers in /home/rws3juzilk3l/public_html/signup.php on line 49
+[17-Aug-2019 20:46:05 UTC] PHP Notice:  Undefined variable: headers in /home/rws3juzilk3l/public_html/signup.php on line 49
+[17-Aug-2019 20:57:30 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[17-Aug-2019 20:57:30 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[17-Aug-2019 20:58:26 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[17-Aug-2019 20:58:26 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[18-Aug-2019 05:28:36 UTC] PHP Notice:  Undefined variable: headers in /home/rws3juzilk3l/public_html/signup.php on line 49
+[18-Aug-2019 05:34:44 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[18-Aug-2019 05:34:44 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[18-Aug-2019 17:17:16 UTC] PHP Notice:  Undefined variable: headers in /home/rws3juzilk3l/public_html/signup.php on line 49
+[18-Aug-2019 17:18:19 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[18-Aug-2019 17:18:19 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[18-Aug-2019 17:20:42 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[18-Aug-2019 17:20:42 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[18-Aug-2019 17:48:23 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rws3juzilk3l/public_html/dashboard.php on line 55
+[18-Aug-2019 17:48:27 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rws3juzilk3l/public_html/dashboard.php on line 55
+[18-Aug-2019 17:48:28 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rws3juzilk3l/public_html/dashboard.php on line 55
+[18-Aug-2019 17:50:17 UTC] PHP Parse error:  syntax error, unexpected '$cashdate' (T_VARIABLE) in /home/rws3juzilk3l/public_html/dashboard.php on line 45
+[18-Aug-2019 17:51:07 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[18-Aug-2019 17:51:07 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[18-Aug-2019 17:52:10 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rws3juzilk3l/public_html/dashboard.php on line 53
+[18-Aug-2019 17:52:35 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[18-Aug-2019 17:52:35 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[18-Aug-2019 17:53:54 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[18-Aug-2019 17:53:54 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[18-Aug-2019 17:53:54 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[18-Aug-2019 17:53:54 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 45
+[18-Aug-2019 17:54:46 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[18-Aug-2019 17:54:46 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[18-Aug-2019 17:54:46 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[18-Aug-2019 17:54:46 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 45
+[18-Aug-2019 17:55:15 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[18-Aug-2019 17:55:15 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[18-Aug-2019 17:55:15 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[18-Aug-2019 17:55:15 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 45
+[18-Aug-2019 17:55:58 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[18-Aug-2019 17:55:58 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[18-Aug-2019 17:55:58 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[18-Aug-2019 17:55:58 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 45
+[18-Aug-2019 17:55:58 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 46
+[18-Aug-2019 17:55:58 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 46
+[18-Aug-2019 17:56:18 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[18-Aug-2019 17:56:18 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 43
+[18-Aug-2019 17:56:18 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[18-Aug-2019 17:56:18 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 45
+[18-Aug-2019 17:56:18 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 46
+[18-Aug-2019 17:56:18 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 46
+[18-Aug-2019 17:58:52 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[18-Aug-2019 17:58:52 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[18-Aug-2019 17:59:23 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[18-Aug-2019 17:59:23 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[18-Aug-2019 18:00:02 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[18-Aug-2019 18:00:02 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[18-Aug-2019 18:00:47 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[18-Aug-2019 18:00:47 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[18-Aug-2019 18:03:37 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[18-Aug-2019 18:03:37 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 52
+[18-Aug-2019 18:06:09 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[18-Aug-2019 18:06:09 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[19-Aug-2019 04:32:42 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[19-Aug-2019 04:32:42 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 52
+[19-Aug-2019 05:43:29 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[19-Aug-2019 05:43:29 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 49
+[20-Aug-2019 13:43:42 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[20-Aug-2019 13:43:42 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 49
+[22-Aug-2019 01:32:42 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[22-Aug-2019 01:32:42 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 52
+[22-Aug-2019 01:32:49 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[22-Aug-2019 01:32:49 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[22-Aug-2019 01:32:49 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 42
+[22-Aug-2019 01:32:49 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[28-Aug-2019 17:02:00 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[28-Aug-2019 17:02:00 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 52
+[03-Sep-2019 21:24:48 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[03-Sep-2019 21:24:48 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 49
+[06-Sep-2019 13:02:25 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[06-Sep-2019 13:02:25 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 49
+[06-Sep-2019 21:07:22 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 6
+[06-Sep-2019 21:07:22 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/payment.php on line 60
+[06-Sep-2019 23:04:09 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[06-Sep-2019 23:04:09 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[06-Sep-2019 23:04:22 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[06-Sep-2019 23:04:22 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[07-Sep-2019 06:01:10 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[07-Sep-2019 06:01:10 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[07-Sep-2019 06:01:10 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 42
+[07-Sep-2019 06:01:10 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[07-Sep-2019 06:44:48 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[07-Sep-2019 06:44:48 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[07-Sep-2019 06:44:48 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 42
+[07-Sep-2019 06:44:48 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[07-Sep-2019 06:45:05 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[07-Sep-2019 06:45:05 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[07-Sep-2019 06:53:31 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[07-Sep-2019 06:53:31 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[07-Sep-2019 07:06:05 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[07-Sep-2019 07:06:05 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[07-Sep-2019 07:06:30 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[07-Sep-2019 07:06:30 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[07-Sep-2019 07:07:38 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[07-Sep-2019 07:07:38 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[07-Sep-2019 07:11:19 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[07-Sep-2019 07:11:19 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[07-Sep-2019 07:13:04 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[07-Sep-2019 07:13:04 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[07-Sep-2019 07:14:04 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[07-Sep-2019 07:14:04 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[07-Sep-2019 07:17:29 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[07-Sep-2019 07:17:29 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[07-Sep-2019 07:17:35 UTC] PHP Notice:  Undefined variable: email in /home/rws3juzilk3l/public_html/withdraw.php on line 47
+[07-Sep-2019 07:17:35 UTC] PHP Notice:  Undefined variable: name in /home/rws3juzilk3l/public_html/withdraw.php on line 51
+[07-Sep-2019 07:32:12 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[07-Sep-2019 07:32:12 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[07-Sep-2019 07:33:10 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[07-Sep-2019 07:33:10 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[07-Sep-2019 07:33:23 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[07-Sep-2019 07:33:23 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[07-Sep-2019 08:46:26 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[07-Sep-2019 08:46:26 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[07-Sep-2019 08:46:26 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 42
+[07-Sep-2019 08:46:26 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[07-Sep-2019 08:49:50 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[07-Sep-2019 08:49:50 UTC] PHP Notice:  Undefined variable: row in /home/rws3juzilk3l/public_html/dashboard.php on line 44
+[07-Sep-2019 09:04:25 UTC] PHP Notice:  Undefined index: image in /home/rws3juzilk3l/public_html/dashboard.php on line 23
+[07-Sep-2019 09:04:25 UTC] PHP Notice:  Undefined index: date_created in /home/rws3juzilk3l/public_html/dashboard.php on line 48
+[07-Sep-2019 09:05:35 UTC] PHP Notice:  Undefined index: date_created in /home/rws3juzilk3l/public_html/dashboard.php on line 48
+[07-Sep-2019 09:07:46 UTC] PHP Notice:  Undefined index: date_created in /home/rws3juzilk3l/public_html/dashboard.php on line 48
+[07-Sep-2019 09:12:08 UTC] PHP Notice:  Undefined index: date_created in /home/rws3juzilk3l/public_html/dashboard.php on line 48
+[07-Sep-2019 09:12:45 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 6
+[07-Sep-2019 09:12:45 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/checkout.php on line 49
+[07-Sep-2019 09:13:52 UTC] PHP Notice:  Undefined index: date_created in /home/rws3juzilk3l/public_html/dashboard.php on line 48
+[07-Sep-2019 09:20:32 UTC] PHP Notice:  Undefined index: date_created in /home/rws3juzilk3l/public_html/dashboard.php on line 48
+[07-Sep-2019 09:21:23 UTC] PHP Notice:  Undefined index: date_created in /home/rws3juzilk3l/public_html/dashboard.php on line 48
+[07-Sep-2019 09:28:22 UTC] PHP Notice:  Undefined index: date_created in /home/rws3juzilk3l/public_html/dashboard.php on line 48
+[07-Sep-2019 09:28:40 UTC] PHP Notice:  Undefined index: date_created in /home/rws3juzilk3l/public_html/dashboard.php on line 48
+[07-Sep-2019 15:56:53 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[07-Sep-2019 15:56:53 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 10
+[07-Sep-2019 15:56:53 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 46
+[07-Sep-2019 15:58:12 UTC] PHP Notice:  Undefined variable: headers in /home/rws3juzilk3l/public_html/signup.php on line 49
+[07-Sep-2019 16:29:48 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[07-Sep-2019 16:29:48 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 10
+[07-Sep-2019 16:29:48 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 46
+[07-Sep-2019 16:30:08 UTC] PHP Notice:  Undefined index: date_created in /home/rws3juzilk3l/public_html/dashboard.php on line 48
+[07-Sep-2019 17:35:39 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[07-Sep-2019 17:35:39 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 10
+[07-Sep-2019 17:35:39 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 46
+[07-Sep-2019 17:37:05 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 6
+[07-Sep-2019 17:37:05 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 10
+[07-Sep-2019 17:37:05 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/dashboard.php on line 46
+[08-Sep-2019 07:53:40 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/edit-photo.php on line 6
+[08-Sep-2019 07:53:40 UTC] PHP Notice:  Undefined index: email in /home/rws3juzilk3l/public_html/edit-photo.php on line 55
+[08-Sep-2019 07:55:07 UTC] PHP Notice:  Undefined index: date_created in /home/rws3juzilk3l/public_html/dashboard.php on line 48
